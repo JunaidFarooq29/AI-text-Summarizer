@@ -1,0 +1,3 @@
+echo streamlit > requirements.txt
+echo nltk >> requirements.txt
+echo scikit-learn >> requirements.txt
